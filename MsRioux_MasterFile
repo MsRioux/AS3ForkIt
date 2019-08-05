@@ -1,12 +1,12 @@
 public class Limerick {
     public static void main(String args[]) {
 
-
+      // Since I am just printing out a long string, there are no instance variables.
       System.out.println("Ms. Rioux was a CompSci teacher. \n" +
                             "She had quite a peculiar feature. \n" +
                             "\tShe talked to a duck, \n" +
                             "\tAnd said it brought luck, \n" +
                             "But it was only a rubber creature.");
 
-    }
-}
+    }// end main method
+}//end class Limerick
