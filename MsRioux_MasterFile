@@ -1,0 +1,12 @@
+public class Limerick {
+    public static void main(String args[]) {
+
+
+      System.out.println("Ms. Rioux was a CompSci teacher. \n" +
+                            "She had quite a peculiar feature. \n" +
+                            "\tShe talked to a duck, \n" +
+                            "\tAnd said it brought luck, \n" +
+                            "But it was only a rubber creature.");
+
+    }
+}
