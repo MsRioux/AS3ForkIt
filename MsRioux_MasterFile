@@ -1,5 +1,7 @@
-public class Limerick {
-    public static void main(String args[]) {
+public class Limerick
+{
+    public static void main(String args[])
+    {
 
       // Since I am just printing out a long string, there are no instance variables.
       System.out.println("Ms. Rioux was a CompSci teacher. \n" +
