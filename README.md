@@ -1,4 +1,4 @@
-# 2. Fork It
+# 3. Fork It
 ##Simple repo to practice Forking a Repo
 
 To see the GitHub page for forking, go here https://help.github.com/en/articles/fork-a-repo
